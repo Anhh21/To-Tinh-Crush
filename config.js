@@ -14,7 +14,7 @@ const CONFIG = {
     question:'Em thích gì ở anh nè',
     btnReply: 'Gửi cho anh',
     reply: 'Vì anh rất tốt với em',
-    mess: 'Anh biết mà, hihi 😚😚',
+    mess: 'Anh biết mà, hihi',
     messDesc: 'Sau dịch chúng ta cùng đi xem phim nha',
     btnAccept: 'Dạ vâng, em đợi anh',
     messLink: 'http://fb.com' //messages/t/100007794931500
