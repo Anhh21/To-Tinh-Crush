@@ -1,21 +1,21 @@
 const CONFIG = {
-    introTitle: 'Này đầu đất',
-    introDesc: `Em thấy nhớ anh, em
-    Em thấy rất nhớ anh thoi
+    introTitle: 'Này bae',
+    introDesc: `Anh thấy nhớ em, anh
+    Anh thấy rất nhớ em thoi
     Ngày đêm cứ loay hoay
-    Trong suy nghĩ về anh
-    Anh có nhớ em không?
-    Anh có thấy nhớ em không?`,
+    Trong suy nghĩ về em
+    Em có nhớ anh không?
+    Em có thấy nhớ anh không?`,
     btnIntro: 'Hic hic 🥺🥺',
-    title: 'Anh mà thoát ra coi chừng khỏi cho chơi game đấy 😌😌',
-    desc: 'Anh có yêu em nhiều hongggg 🥺🥺',
-    btnYes: 'Yêu nhiều lắm luôn, muốn ăn luôn 🥺🥺',
-    btnNo: 'Hong, anh yêu bé hàng xóm 😗😗',
-    question:'Vì sao anh lại yêu em dợoooo 🥺🥺',
-    btnReply: 'Gửi cho em nà 😝😝',
-    reply: 'Vì em là em bé của mình anh thoiiii 😘😘',
-    mess: 'Em biết mà, hihi 😚😚',
-    messDesc: 'Vậy thì bớt chơi game lại đi:))',
-    btnAccept: 'Dạ, anh biết gòi. Yêu emmmmmmm 🙆🙆',
-    messLink: 'http://fb.com' //messages/t/100014015913631
+    title: 'Em mà thoát ra là làm người yêu em đó',
+    desc: 'Em có muốn 1 người bên dược quan tâm lo lắng cho em không??',
+    btnYes: 'Em cũng muốn có người như vậy',
+    btnNo: 'Em trốn rồi em quay lại',
+    question:'Em thích gì ở anh nè',
+    btnReply: 'Gửi cho anh',
+    reply: 'Vì anh rất tốt với em',
+    mess: 'Anh biết mà, hihi 😚😚',
+    messDesc: 'Sau dịch chúng ta cùng đi xem phim nha',
+    btnAccept: 'Dạ vâng, em đợi anh',
+    messLink: 'http://fb.com' //messages/t/100007794931500
 }
